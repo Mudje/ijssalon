@@ -1,3 +1,3 @@
 print("Hallo Wereld !")
 print("Welkom is onze ijssalon")
-git add .
+print("Under construction")
